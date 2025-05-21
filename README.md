@@ -8,7 +8,7 @@
 > GitHub 的 README.md 基於網頁安全，限制以新分頁打開連結。如希望「以新分頁開啟連結」，請「按著 Ctrl 鍵點擊連結」，或「用滑鼠右鍵點擊連結」，然後選擇「在新分頁中開啟連結」。
 
 | 作業名稱 | 中文名稱 | 連結 |
-| :---: | :---: | :---: |
+| :--- | :--- | :--- |
 | 01. Print Hello World | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
 | 02. Add Two Numbers | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
 | 03. Swap Variables | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
