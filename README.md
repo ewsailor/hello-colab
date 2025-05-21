@@ -1,4 +1,22 @@
 # hello-colab
+
+如何一口氣，把每個資料夾中，都新增一個README.md檔案
+
+然後README.md檔案，要有以下內容
+
+# 01. Print Hello World
+
+## 目標 Goals
+- 
+- 
+
+## 要求 Requirements
+- 使用者輸入 
+- 印出 
+
+### 備註
+- 本練習為「Python 資料科學教戰營第 1 階段」課程作業之一，點此連結可看所有作業。
+
 # 「[🐍 Python 資料科學教戰營](https://user121857.pse.is/7m3t6w)」第 1 階段課程作業總覽
 > 本專案紀錄「Python 資料科學教戰營第 1 階段」所有作業內容，涵蓋 Python 基礎語法、條件判斷、迴圈、函式等主題。
 
