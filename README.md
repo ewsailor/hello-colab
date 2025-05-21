@@ -1,5 +1,5 @@
 # hello-colab
-# 「[🐍 Python 資料科學教戰營](https://dscareer.kolable.app/projects/8954b785-32ce-4def-8ef1-352e73c90527)」第 1 階段課程作業總覽
+# 「[🐍 Python 資料科學教戰營](https://user121857.pse.is/7m3t6w)」第 1 階段課程作業總覽
 > 本專案紀錄「Python 資料科學教戰營第 1 階段」所有作業內容，涵蓋 Python 基礎語法、條件判斷、迴圈、函式等主題。
 
 ## 📂 作業列表 Assignment List
