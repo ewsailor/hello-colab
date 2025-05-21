@@ -1,21 +1,4 @@
-# hello-colab
-
-如何一口氣，把每個資料夾中，都新增一個README.md檔案
-
-然後README.md檔案，要有以下內容
-
-# 01. Print Hello World
-
-## 目標 Goals
-- 
-- 
-
-## 要求 Requirements
-- 使用者輸入 
-- 印出 
-
-### 備註
-- 本練習為「Python 資料科學教戰營第 1 階段」課程作業之一，點此連結可看所有作業。
+# hello-colab 
 
 # 「[🐍 Python 資料科學教戰營](https://user121857.pse.is/7m3t6w)」第 1 階段課程作業總覽
 > 本專案紀錄「Python 資料科學教戰營第 1 階段」所有作業內容，涵蓋 Python 基礎語法、條件判斷、迴圈、函式等主題。
@@ -23,6 +6,25 @@
 ## 📂 作業列表 Assignment List
 > **提示**：  
 > GitHub 的 README.md 基於網頁安全，限制以新分頁打開連結。如希望「以新分頁開啟連結」，請「按著 Ctrl 鍵點擊連結」，或「用滑鼠右鍵點擊連結」，然後選擇「在新分頁中開啟連結」。
+
+| 作業名稱 | 中文名稱 | 連結 |
+| :-----: | :-----: | :-----: |
+| 01. Print Hello World | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
+| 02. Add Two Numbers | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
+| 03. Swap Variables | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
+| 04. Replace String | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
+| 05. Split Url | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
+| 06. Move Elements Up | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
+| 07. Move Elements Down | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
+| 08. Merge Sets | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
+| 09. Remove Duplicates And Sort | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
+| 10. Factorial | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
+| 11. Split Even Odd | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
+| 12. Sum Of Factorials | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
+| 13. String Count | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
+| 14. Define Function | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
+| 15. Sum Function | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
+| 16. Exception Handling | （請填中文名稱） | [🔗 前往](https://chatgpt.com/) |
 
 | 	英文名稱	 | 中文名稱	 | 	連結	 | 
 | 	:-----:	 | 	:-----:	 | 	:-----:	 | 
