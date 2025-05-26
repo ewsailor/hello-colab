@@ -1,5 +1,17 @@
 # hello-colab 
+# 01. Print Hello World
 
+## 目標 Goals
+- 熟悉 Python 語法
+- 練習輸入與輸出（input/output）
+
+## 要求 Requirements
+- 使用者輸入 'World'
+- 印出 Hello World
+
+### 備註
+- 本練習為「Python 資料科學教戰營第 1 階段」課程作業之一，點此連結可看所有作業。
+- 
 # 「[🐍 Python 資料科學教戰營](https://user121857.pse.is/7m3t6w)」第 1 階段課程作業總覽
 > 本專案紀錄「Python 資料科學教戰營第 1 階段」所有作業內容，涵蓋 Python 基礎語法、條件判斷、迴圈、函式等主題。
 
